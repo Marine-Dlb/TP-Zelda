@@ -61,6 +61,8 @@ p{
   font-family: 'Libre Baskerville', serif;
   src: url('../fonts/LibreBaskerville-Regular.ttf') format('truetype'); 
   text-align: center;
+  margin-top: 2%;
+  margin-bottom: 5%;
 }
 
 .container1{
@@ -75,16 +77,30 @@ p{
 }
 
 .header-c{
-  margin: auto;
   display: flex;
-  position: absolute;
+  justify-content: center;
 }
 
-/*
+
+.carousel2{
+  display: flex;
+  justify-content: center;
+}
+
+.texte2{
+  display: flex;
+  justify-content: center;
+}
+
+.grid-cd{
+  display: flex;
+  justify-content: center;
+}
 
 
 
-*/
+
+
 
 
 /*
@@ -143,11 +159,6 @@ Couleur dorée : #af966d
    
 }
 
-/* Flexbox */
-  
-.myFlex {
-
-}
 
 /******************/
 
